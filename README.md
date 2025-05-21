@@ -24,3 +24,8 @@ I'm a highly motivated cybersecurity enthusiast and frontend developer with a pa
 <a href="https://www.sleuthkit.org/autopsy/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Autopsy_logo.svg" alt="autopsy" width="40" height="40"/> </a> 
 <a href="https://accessdata.com/products-services/forensic-toolkit-ftk" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/AccessData_FTK_Logo.png" alt="ftk_imager" width="40" height="40"/> </a>  </p>
 
+
+
+
+
+ 
