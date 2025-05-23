@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Azan Afzal</h1>
-<h2 align="center">💻 A Cybersecurity Enthusiast | Frontend Developer | Ethical Hacker-in-Training</h2> 
+<h2 align="center">💻 A Cybersecurity Enthusiast | Ethical Hacker-in-Training</h2> 
 I'm a highly motivated cybersecurity enthusiast and frontend developer with a passion for securing digital infrastructure and building engaging user interfaces. I specialize in ethical hacking, network architecture, and vulnerability assessment, while actively exploring advanced topics such as malware analysis, penetration testing, and AI-powered security solutions. My journey combines strong technical foundations in web development with a growing expertise in cybersecurity domains like system hardening, secure coding, and threat modeling.
 
 - 🌱 I’m currently learning **Cybersecurity fundamentals - Malware Analysis & Reverse Engineering - Ethical Hacking - AI integration in cybersecurity**
